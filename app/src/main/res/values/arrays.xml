@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>aaaaaa 1</item>
+        <item>aaaaaa 2</item>
+        <item>Cancer to your mother</item>
+        <item>Cry 1</item>
+        <item>Deite pws solarei o arxigos sas</item>
+        <item>Den ta kseroun ta vasika</item>
+        <item>Einai arrwstoi</item>
+        <item>EXHAUST!</item>
+        <item>Failara to E</item>
+        <item>FTOU</item>
+        <item>Gelio 1</item>
+        <item>H mana ths Lux</item>
+        <item>Kalinixta</item>
+        <item>Karkino sth mana sou</item>
+        <item>Lane Swap</item>
+        <item>Lululu</item>
+        <item>Malaka Vromaw</item>
+        <item>Mia wra fear</item>
+        <item>Mpampampampap</item>
+        <item>Mpravo Poustopedo</item>
+        <item>Na pethaneis mpastarde</item>
+        <item>Na pethanoun oloi</item>
+        <item>Nasaska</item>
+        <item>O Mpampas sou</item>
+        <item>Ompa</item>
+        <item>One Piece</item>
+        <item>Paizw ksilo san antras</item>
+        <item>Parto</item>
+        <item>Poios Malphite</item>
+        <item>Poutso re mounia</item>
+        <item>Poutso re mounia - poutsompanana</item>
+        <item>Poutso re mounia 2</item>
+        <item>Pws Ginetai</item>
+        <item>QQQQQQQQ</item>
+        <item>Seniora</item>
+        <item>Siga vre malaka</item>
+        <item>Sopsixa</item>
+        <item>Sou gamame th mana</item>
+        <item>Ta leme poustopeda</item>
+        <item>Tarzan</item>
+        <item>To mouni pou sas gennise</item>
+        <item>To score den metraei</item>
+        <item>To speed tou Jax</item>
+        <item>Tolisam32</item>
+        <item>Ton upno ton aiwnio</item>
+        <item>Tou gamisame th mana</item>
+        <item>Ulti mori kariola</item>
+        <item>Xasame</item>
+        <item>xontrelo</item>
+    </string-array>
+
+    <integer-array name="ids">
+        <item>@raw/aaaaa</item>
+        <item>@raw/aaaaaaaa</item>
+        <item>@raw/cancer_to_your_mother</item>
+        <item>@raw/cry1</item>
+        <item>@raw/deite_pos_solarei_o_arxigos_sas</item>
+        <item>@raw/den_ta_kseroun_ta_vasika_kai_krazoune</item>
+        <item>@raw/einai_arrwstoi</item>
+        <item>@raw/exhaust</item>
+        <item>@raw/failara_to_e</item>
+        <item>@raw/ftou</item>
+        <item>@raw/gelio1</item>
+        <item>@raw/h_mana_ths_lux</item>
+        <item>@raw/kalinixta</item>
+        <item>@raw/karkino_sth_mana_sou</item>
+        <item>@raw/lane_swap</item>
+        <item>@raw/lululul</item>
+        <item>@raw/malaka_vromaw</item>
+        <item>@raw/mia_wra_fear</item>
+        <item>@raw/mpampampampampap</item>
+        <item>@raw/mpravo_poustopedo</item>
+        <item>@raw/na_pethaneis_mpastarde</item>
+        <item>@raw/na_pethanoun_oloi</item>
+        <item>@raw/nasaska</item>
+        <item>@raw/o_mpampas_sou</item>
+        <item>@raw/ompa</item>
+        <item>@raw/onepiece</item>
+        <item>@raw/paizw_ksilo_san_antras</item>
+        <item>@raw/parto</item>
+        <item>@raw/poios_malphite</item>
+        <item>@raw/poutso_re_mounia</item>
+        <item>@raw/poutso_re_mounia_poutsompanana</item>
+        <item>@raw/poutso_re_mounia2</item>
+        <item>@raw/pws_ginete</item>
+        <item>@raw/qqqq</item>
+        <item>@raw/seniora</item>
+        <item>@raw/siga_vre_malaka</item>
+        <item>@raw/sopsixa</item>
+        <item>@raw/sou_gamame_th_mana</item>
+        <item>@raw/ta_leme_poustopeda</item>
+        <item>@raw/tarzan</item>
+        <item>@raw/to_mouni_pou_sas_genise</item>
+        <item>@raw/to_score_den_metraei</item>
+        <item>@raw/to_speed_tou_jax</item>
+        <item>@raw/tolissam32</item>
+        <item>@raw/ton_upno_ton_aiwnio</item>
+        <item>@raw/tou_gamisame_th_mana</item>
+        <item>@raw/ulti_morh_kariola</item>
+        <item>@raw/xasame</item>
+        <item>@raw/xontrelo</item>
+    </integer-array>
+</resources>
